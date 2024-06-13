@@ -9,4 +9,7 @@
    multi-line
    comments. */
 
-   console.log("Comments make your code more readable by others.");
+   console.log("Good Day, my friend")
+/* Multi-line comments
+should not appear*/
+console.log("Comments make your code more readable by others")
