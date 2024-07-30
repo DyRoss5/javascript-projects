@@ -30,6 +30,7 @@ let arrayTest1 = ['apple', 'potato', 'Capitalized Words'];
 let arrayTest2 = [123, 8897, 42, 1168, 8675309];
 let arrayTest3 = ['hello', 'world', 123, 'orange'];
 
+let
 // Bonus Missions
 
 // 1. Have a clear, descriptive name like funPhrase.
